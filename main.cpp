@@ -9,7 +9,7 @@
 
 //set up controller and call the menu function
 int main(){
-;
+
     controller c;    
     c.menu();
 
